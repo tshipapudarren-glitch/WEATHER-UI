@@ -30,7 +30,11 @@ The application was thoroughly tested across all three available cities (Johanne
 * **Sun & Moon / Additional Details:** Checked that sunrise, sunset, moon phases, and metrics like wind and humidity display accurate data.
 
 ## 5. Screenshot
-*(Insert your screenshot showing the completed Weather Dashboard application running successfully inside the BlueStacks 5 emulator using Expo Go here)*[cite: 1]
+*(Insert your screenshot showing the completed Weather Dashboard application running successfully inside the BlueStacks 5 emulator using Expo Go here)*!
+<img width="1072" height="846" alt="Screenshot 2026-10-10 023234" src="https://github.com/user-attachments/assets/d2466df0-c822-4241-8de7-d5109ca6a116" />
+<img width="1072" height="842" alt="Screenshot 2026-10-10 023257" src="https://github.com/user-attachments/assets/0e7bf2d4-6370-4328-9a3d-4be825639b9e" />
+<img width="940" height="806" alt="Screenshot 2026-10-10 023313" src="https://github.com/user-attachments/assets/e70a4699-bff2-4606-b8cd-5e18b6388d4d" />
+
 
 ## 6. Conclusion
 Through investigating and fixing this Weather Dashboard application, I gained practical experience in debugging React Native components, managing state with TypeScript, handling layout props like horizontal scrolling, and fixing array mapping and component property passing bugs[cite: 1].
